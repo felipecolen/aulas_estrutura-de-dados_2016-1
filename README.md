@@ -1,4 +1,4 @@
-# Aulas Estrutura de dados 2016-1 - IFRO PVH Zona Norte
+# Estrutura de Dados 2016-1 - IFRO PVH Zona Norte
 Exercícios feitos nas aulas de Estrutura de Dados turma 2016-1 - Informática para Internet
 
 
