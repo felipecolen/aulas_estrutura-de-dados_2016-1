@@ -1,7 +1,6 @@
 package descontodaana;
 
 import java.util.Scanner;
-import javafx.animation.KeyValue;
 
 public class DescontoDaAna {
 
@@ -23,7 +22,7 @@ public class DescontoDaAna {
 
             resultado = valordacompra - (valordacompra * desconto / 100);
 
-            System.out.println("Seu desconto foi de: " + desconto + ".O valor a pagar é: " + resultado);
+            System.out.println("Seu desconto foi de: R$" + (valordacompra * desconto / 100) + ".O valor a pagar é: R$" + resultado);
 //            System.out.printf("Seu desconto foi de: %d. O valor a pagar é: %f", desconto, resultado);
             
             System.out.println("Você quer continuar? Digite 1 para SIM ou 0 para não.");
@@ -35,5 +34,4 @@ public class DescontoDaAna {
             }
         }
     }
-    
 }
